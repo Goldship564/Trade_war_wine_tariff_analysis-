@@ -6,9 +6,6 @@ Mid-Range Wines: Prices drop ~27% ($40 to $29.30) due to dynamic oversupply (400
 Luxury Wines: Prices rise 5% ($200 to $210) as prestige demand and bargaining offset a 20,000-bottle influx.
 Implications: Hong Kong gains mid-range affordability, EU producers lose revenue, and trade tensions risk escalation.
 
-Repository Contents
-paper.tex: LaTeX source code for the full paper with equations.
-paper.pdf: Compiled PDF output (if included; generate it via LaTeX).README.md: This file.
 
 
 Methodology
