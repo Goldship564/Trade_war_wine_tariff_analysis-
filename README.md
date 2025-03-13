@@ -9,6 +9,7 @@ Implications: Hong Kong gains mid-range affordability, EU producers lose revenue
 
 
 **Methodology**
+
 Mid-Range: Ramsey intertemporal utility maximization and differential supply adjustment.
 Luxury: Veblen goods demand with Nash bargaining between EU producers and Hong Kong buyers.
 Data: Assumes 80M mid-range and 10M luxury bottles displaced globally, with Hong Kong absorbing 0.5% and 0.2%.
