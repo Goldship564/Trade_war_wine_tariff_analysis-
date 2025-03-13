@@ -1,4 +1,4 @@
-Overview
+**Overview**
 
 This repository contains an advanced economic analysis of how a threatened 200% U.S. tariff on EU wine and Champagne, announced March 13, 2025, could affect prices in Hong Kong as of March 14, 2025. The study contrasts mid-range wines ($20-$50) and luxury wines (over $100) using sophisticated mathematical models and economic theory, including Ramsey optimization, differential equations, and Nash bargaining.
 Key Findings
@@ -8,7 +8,7 @@ Implications: Hong Kong gains mid-range affordability, EU producers lose revenue
 
 
 
-Methodology
+**Methodology**
 Mid-Range: Ramsey intertemporal utility maximization and differential supply adjustment.
 Luxury: Veblen goods demand with Nash bargaining between EU producers and Hong Kong buyers.
 Data: Assumes 80M mid-range and 10M luxury bottles displaced globally, with Hong Kong absorbing 0.5% and 0.2%.
